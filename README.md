@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rifkyalfaris27
+- 👋 Hi, I’m Muhammad Rifky Alfaris 
 - 👀 I’m interested in Software Engineering And Data Scient
 - 🌱 I’m currently learning Front End Web Development Learning Path
 - 💞️ I’m looking to collaborate on any projects that i can 
